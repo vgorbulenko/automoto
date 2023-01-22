@@ -4,7 +4,7 @@ use Yii\Url;
 
 /** @var yii\web\View $this */
 
-$this->title = 'My Travel Blog';
+$this->title = 'Car Blog';
 ?>
 <div class="site-index">
 
