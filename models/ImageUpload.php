@@ -44,6 +44,6 @@ class ImageUpload extends Model
 
     private function getBasePath()
     {
-        return  'uploads\\';
+        return  '\\home\\ec2-user\\uploads\\';
     }
 }
